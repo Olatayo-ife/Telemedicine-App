@@ -1,0 +1,16 @@
+{
+  "name": "telemedicine-app",
+  "version": "1.0.0",
+  "description": "\"Introducing our Telemedicine-website, a one-stop digital destination for all your healthcare needs. Explore a comprehensive range of pharmaceuticals, wellness products, and medical supplies, delivered conveniently to your doorstep, ensuring easy access to essential healthcare solutions.\"",
+  "main": "cart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "react-router-dom": "^6.28.0"
+  }
+}
